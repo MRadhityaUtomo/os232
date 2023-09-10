@@ -14,3 +14,7 @@ ZCZC  W01  15 L05 Quiz related including studying
 ZCZC  W01  100 L11 Assignment #01
 ZCZC  W01  100 L02 CLASSROOM/ZOOM meetings related
 ZCZC  W01  110 L70 Studying for other courses.
+ZCZC  W01  60 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC  W01  44 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC  W01  360 L84 Relax, Rest, Nap, and Sleep (Segmented ofcourse)
+ZCZC  W01  60 L88 Workout/Sport/Exercise/ETC.
