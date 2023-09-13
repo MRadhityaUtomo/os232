@@ -25,3 +25,7 @@ ZCZC  W02  30 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC  W02  90 L84 Relax, Rest, Nap, and Sleep. Downtime in between classes
 ZCZC  W02  100 L70 Studying for other courses. PBP class
 ZCZC  W02  100 L70 Studying for other courses. SDA class
+ZCZC  W02  100 L02 CLASSROOM/ZOOM meetings related, Tuesday OS class
+ZCZC  W02  30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC  W02  50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC  W02  60 L84 Relax, Rest, Nap, and Sleep, relax before sleeping
