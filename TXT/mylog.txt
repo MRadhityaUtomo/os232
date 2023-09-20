@@ -38,3 +38,10 @@ ZCZC  W02  120 L84 Relax, Rest, Nap, and Sleep, dropped sleeping right after rea
 ZCZC  W02  90 L09 Assignment in General. Reading Assignment
 ZCZC  W02  120 L05 Quiz related including studying
 ZCZC  W02  30 L05 Quiz related including studying, the quiz
+ZCZC  W03  100 L70 Studying for other courses. Linear Algebra class
+ZCZC  W03  100 L70 Studying for other courses. PBP class
+ZCZC  W03  100 L70 Studying for other courses. SDA class
+ZCZC  W03  100 L02 CLASSROOM/ZOOM meetings related, Tuesday OS class
+ZCZC  W03  100 L70 Studying for other courses. MPPI class
+ZCZC  W03  30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC  W03  120 L84 Relax, Rest, Nap, and Sleep
