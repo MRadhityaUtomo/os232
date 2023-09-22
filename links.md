@@ -20,6 +20,15 @@ A very good channel for leaning security and how network works, has the feel of 
 Explains basic but frequently used linux commands, and helps me understand what some of the syntax/commands mean. One of the eye catching videos from the channel, I now have a decent note haul of what some commands do.
 
 [Linux Basics: How to Enable Auto Login by webpwnized](https://www.youtube.com/watch?v=OTgExo2848U) ---
-A step by step on how to do seamless login between users. It was touched upon in class but I forgot how to do it so I searched online to recollect. 
+A step by step on how to do seamless login between users. It was touched upon in class but I forgot how to do it so I searched online to recollect.
+
+[File System Concept by Udacity](https://www.youtube.com/watch?v=mzUyMy7Ihk0) ---
+A short video on file system concepts. The length really helped my goldfish attention span and prepped me up for longer videos.
+
+[FAT32 vs exFAT vs NTFS - Windows File Systems by PowerCert Animated Videos](https://www.youtube.com/watch?v=bYjQakUxeVY) ---
+A video explaining the differences between FAT32, exFAT, and NTFS on windows file systems. Saw this and remembered the names from week one, interested to saw how they connect and what they actually are.
+
+[The Linux Tier List by Chris Tier List](https://www.youtube.com/watch?v=KyADkmRVe0U) ---
+A linux tier list. Debian is meta tier.
 <br>
 <hr>
