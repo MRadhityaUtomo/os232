@@ -51,3 +51,11 @@ ZCZC  W03  90 L70 Studying for other courses. SDA Lab
 ZCZC  W03  120 L05 Quiz related including studying
 ZCZC  W03  12 L05 Quiz related including studying, the quiz
 ZCZC  W03  120 L84 Relax, Rest, Nap, and Sleep
+ZCZC  W04  100 L02 CLASSROOM/ZOOM meetings related, Tuesday OS Class
+ZCZC  W04  100 L09 Assignment in General. Reading Assignment
+ZCZC  W04  240 L70 Studying for other courses. Malding over SDA TP
+ZCZC  W04  120 L70 Studying for other courses. Still malding over SDA TP
+ZCZC  W04  120 L84 Relax, Rest, Nap, and Sleep. Had enough of SDA TP
+ZCZC  W04  90 L05 Quiz related including studying. Reading OSC10 to prep for next week
+ZCZC  W04  120 L70 Studying for other courses. Back again doing SDA TP
+ZCZC  W04  90 L01 Scele/Discord related. Cleaning up assignments
