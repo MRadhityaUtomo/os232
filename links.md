@@ -30,5 +30,17 @@ A video explaining the differences between FAT32, exFAT, and NTFS on windows fil
 
 [The Linux Tier List by Chris Tier List](https://www.youtube.com/watch?v=KyADkmRVe0U) ---
 A linux tier list. Debian is meta tier.
+
+[Static vs. Shared Libraries by Dave Xiang](https://www.youtube.com/watch?v=-vp9cFQCQCo) --- 
+Talks about the main differences of those 2 libraries + shows interest in linking. A subject in class, was interested in learning more.
+
+[Basics of Dynamic Memory Allocation by Neso Academy](https://www.youtube.com/watch?v=udfbq4M2Kfc) --- 
+Explains the main differences of dynamic and static memory allocation and how it connects to stack. Needed some refreshers for stack related materials.
+
+[6.3 Contiguous Memory Allocation | Fixed Size Partitioning | Variable Size Partitioning by KNOWLEDGE GATE](https://www.youtube.com/watch?v=PuZ_xChlInM) --- 
+Deep dive into contiguous memory allocation and size partitioning. Saw what Contiguous Memory Allocation is in the slides of osc10, wanted to know more about them.
+
+[SPARC - Wikipedia](https://en.wikipedia.org/wiki/SPARC) --- 
+Main explanation about sparc processors. Saw the name on the slides, wanted to find out what SPARC means, wikipedia is valid educational library, it is community driven and community checked.
 <br>
 <hr>
