@@ -42,5 +42,14 @@ Deep dive into contiguous memory allocation and size partitioning. Saw what Cont
 
 [SPARC - Wikipedia](https://en.wikipedia.org/wiki/SPARC) --- 
 Main explanation about sparc processors. Saw the name on the slides, wanted to find out what SPARC means, wikipedia is valid educational library, it is community driven and community checked.
+
+[MEMORY PERFORMANCE - IBM](https://www.ibm.com/docs/en/aix/7.2?topic=management-memory-performance) ---
+Explains core concepts in virtual memory and performance like Paging. Good place to start looking for keywords.
+
+[Working set - Wikipedia](https://en.wikipedia.org/wiki/Working_set#:~:text=Working%20set%20can%20be%20divided,the%20hierarchy%2C%20thrashing%20will%20occur.) ---
+Explains Working set concepts like Thrashing. Was looking for Thrashing definitions, still stood my ground on Wikipedia.
+
+[What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
+Nice video on virtual memory whilst providing clear visuals for the concepts. Used to watch Android Authority back in elementary school, did not understand abything back then, cool to see them covering topics on OS class.
 <br>
 <hr>

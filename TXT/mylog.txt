@@ -59,3 +59,16 @@ ZCZC  W04  120 L84 Relax, Rest, Nap, and Sleep. Had enough of SDA TP
 ZCZC  W04  90 L05 Quiz related including studying. Reading OSC10 to prep for next week
 ZCZC  W04  120 L70 Studying for other courses. Back again doing SDA TP
 ZCZC  W04  90 L01 Scele/Discord related. Cleaning up assignments
+ZCZC  W05  120 L70 Studying for other courses. Finishing up PBP assignment, week start Wednesday
+ZCZC  W05  120 L84 Relax, Rest, Nap, and Sleep. 
+ZCZC  W05  100 L02 CLASSROOM/ZOOM meetings related, Thursday OS asynchronous class assignment
+ZCZC  W05  90 L05 Quiz related including studying. Reading OSC10 to prep for Friday Quiz
+ZCZC  W05  15 L05 Quiz related including studying. The Quiz
+ZCZC  W05  90 L01 Scele/Discord related. Cleaning up assignments
+ZCZC  W05  90 L31 VirtualBox: install GNU/Linux, etc. Doing WEEK05 assignment 1
+ZCZC  W05  120 L84 Relax, Rest, Nap, and Sleep
+ZCZC  W05  90 L09 Assignment in General. Reading Assignment
+ZCZC  W05  100 L02 CLASSROOM/ZOOM meetings related, Tuesday OS class
+ZCZC  W05  90 L31 VirtualBox: install GNU/Linux, etc. Doing WEEK05 LOW MEMORY
+ZCZC  W05  60 L84 Relax, Rest, Nap, and Sleep. Felt sick for a day
+ZCZC  W05  90 L01 Scele/Discord related. Cleaning up assignments and doing POP QUIZ
