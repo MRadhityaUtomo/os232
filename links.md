@@ -51,5 +51,11 @@ Explains Working set concepts like Thrashing. Was looking for Thrashing definiti
 
 [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
 Nice video on virtual memory whilst providing clear visuals for the concepts. Used to watch Android Authority back in elementary school, did not understand abything back then, cool to see them covering topics on OS class.
+
+[fork() in C – GeeksforGeeks](https://www.geeksforgeeks.org/fork-system-call/) --- Explains the fork() function and how it works in general very well. Was searching for more on what fork is and what it does.
+
+[Unix Threads in C – CodeVault](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) --- Neat playlist, a mini dictionary about unix threads in C materials like the fork() function in video form. Great cussion to come back again and refresh stuff.
+
+[Concurrency in C – University of Chicago](https://www.classes.cs.uchicago.edu/archive/2018/spring/12300-1/lab6.html) --- Provides brief but sufficient information about concurrency whilst also providing immediate examples. Great paired  up with slides and other videos to get more out of concurrency.
 <br>
 <hr>
