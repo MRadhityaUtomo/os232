@@ -57,5 +57,14 @@ Nice video on virtual memory whilst providing clear visuals for the concepts. Us
 [Unix Threads in C – CodeVault](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) --- Neat playlist, a mini dictionary about unix threads in C materials like the fork() function in video form. Great cussion to come back again and refresh stuff.
 
 [Concurrency in C – University of Chicago](https://www.classes.cs.uchicago.edu/archive/2018/spring/12300-1/lab6.html) --- Provides brief but sufficient information about concurrency whilst also providing immediate examples. Great paired  up with slides and other videos to get more out of concurrency.
+
+[Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management - Simple Snippets](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
+Explains the meaning and reasons for deadlocks in OS along with how to fix them to boot. Base starting point for me when looking for this week's material.
+
+[Process Synchronization - Neso Academy](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
+Fulfilling playlist on Synchronization and deadlock problems along with it. Might be too general but it is a really good not to mention complete video series on this week's topic.
+
+[Peterson’s Algorithm in Process Synchronization - GeekforGeeks](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) ---
+Explains the Peterson's algorithm and problem with code examples. Diving and searching more on this Peterson problem topic.
 <br>
 <hr>
