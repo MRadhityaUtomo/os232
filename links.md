@@ -66,5 +66,11 @@ Fulfilling playlist on Synchronization and deadlock problems along with it. Migh
 
 [Peterson’s Algorithm in Process Synchronization - GeekforGeeks](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) ---
 Explains the Peterson's algorithm and problem with code examples. Diving and searching more on this Peterson problem topic.
+
+[Kernotex Youtube Channel](https://www.youtube.com/@Kernotex) ---
+Kernotex's YouTube channel stands out with its insightful content about LFS and from scratch series, delivering a massively helpful and informative content about all things LFS. Really helped when navigating through this week.
+
+[7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0 - Kernotex](https://www.youtube.com/watch?v=uggsnHSELos) ---
+A godsend amongst LFS videos, full walkthrough on this week's subject. He has done much for the community, God bless his soul.
 <br>
 <hr>

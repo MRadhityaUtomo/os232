@@ -96,3 +96,13 @@ ZCZC  W07  90 L09 Assignment in General.
 ZCZC  W07  60 L84 Relax, Rest, Nap, and Sleep.
 ZCZC  W07  70 L01 Scele/Discord related. Cleaning up assignments and doing POP QUIZ
 ZCZC  W07  15 L05 Quiz related including studying. The Quiz
+ZCZC  W08  120 L84 Relax, Rest, Nap, and Sleep.
+ZCZC  W08  50 L09 Assignment in General. Reading Assignment
+ZCZC  W08  90 L09 Assignment in General.
+ZCZC  W08  60 L84 Relax, Rest, Nap, and Sleep.
+ZCZC  W08  100 L09 Assignment in General. Reading Assignment
+ZCZC  W08  100 L02 CLASSROOM/ZOOM meetings related, Thursday OS class
+ZCZC  W08  50 L31 VirtualBox: install GNU/Linux, etc. Doing WEEK06 assignment 1 - 2
+ZCZC  W08  180 L31 VirtualBox: install GNU/Linux, etc. Doing WEEK06 assignment 3 - finishing
+ZCZC  W08  60 L01 Scele/Discord related. Cleaning up assignments and doing POP QUIZ
+ZCZC  W08  15 L05 Quiz related including studying. The Quiz
